@@ -1,6 +1,6 @@
 # Meetings Website
 
-Live Preview: [https://ikuamike.github.io/meetings_website/](https://ikuamike.github.io/meetings_app/)
+Live Preview: [https://ikuamike.github.io/meetings_app/](https://ikuamike.github.io/meetings_app/)
 
 Static only website I created for my front-end development practice after following the linked tutorial.
 
